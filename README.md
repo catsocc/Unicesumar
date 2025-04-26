@@ -1,4 +1,4 @@
-# Sistema de Gerenciamento de Estacionamento UniCesumar Parking
+# Sistema de Gerenciamento de Estacionamento UniCesumar
 
 Este repositório contém o código em Python para um sistema de gerenciamento de estacionamento comercial, desenvolvido como parte da atividade MAPA das disciplinas de Aplicativos Computacionais e Algoritmos e Programação Estruturada.
 
